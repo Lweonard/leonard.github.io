@@ -1,0 +1,10 @@
+C:\Users\Hp\Documents\jumita\bungga\bungga\bin\Debug\bungga.exe.config
+C:\Users\Hp\Documents\jumita\bungga\bungga\bin\Debug\bungga.exe
+C:\Users\Hp\Documents\jumita\bungga\bungga\bin\Debug\bungga.pdb
+C:\Users\Hp\Documents\jumita\bungga\bungga\obj\Debug\bungga.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\jumita\bungga\bungga\obj\Debug\bungga.Form1.resources
+C:\Users\Hp\Documents\jumita\bungga\bungga\obj\Debug\bungga.Properties.Resources.resources
+C:\Users\Hp\Documents\jumita\bungga\bungga\obj\Debug\bungga.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\jumita\bungga\bungga\obj\Debug\bungga.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\jumita\bungga\bungga\obj\Debug\bungga.exe
+C:\Users\Hp\Documents\jumita\bungga\bungga\obj\Debug\bungga.pdb
